@@ -1,4 +1,3 @@
-Here is a detailed README file for your BMI app developed using Dart and Flutter with VS Code. This README includes sections typically found in a GitHub repository to provide clear instructions and information about the project.
 
 ---
 
