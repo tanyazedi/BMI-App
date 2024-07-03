@@ -18,10 +18,6 @@ A simple BMI (Body Mass Index) calculator app developed using Dart and Flutter. 
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Demo
-
-![BMI App Demo](https://link-to-demo-gif-or-screenshot)
-
 ## Features
 
 - Input weight in kilograms
